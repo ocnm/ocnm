@@ -1,8 +1,8 @@
 ## Skills
 - HTML
 - SCSS/SASS/CSS
-- JavaScript
-- React
+- JavaScript, Typescript
+- React, Node
 
 - Webpack
 - Git
@@ -11,57 +11,25 @@
 ## Projects
 
 ### Weather App
-Here I made an application based on open weather API.
-- Implemented an automatic geolocation check feature to improve user experience.
-- Developed error-handling mechanisms for incorrect input values and geolocation responses.
-- Established communication with the server for efficient handling of input/output operations.
-- Designed an interface with two sliders for hourly and daily forecast options.
-- Optimized the design for both desktop and mobile screens with widths of 480px and 420px.
+An application using the Open Weather API with automatic geolocation check and error-handling mechanisms were developed. The design includes sliders for hourly and daily forecasts and is optimized for different screens with communication to the server.
 
 #### Technologies:
-- Javascript
-- SCSS
-- Webpack
-- async / await
-- navigator.geolocation
-- error handling
+Javascript, SCSS, Webpack.
 
-[Link to the Github pages](https://ocnm.github.io/sb-weather/)
-
-[link to the code](https://github.com/ocnm/sb-weather/)
+[Github pages](https://ocnm.github.io/sb-weather/) | [Source code](https://github.com/ocnm/sb-weather/)
 
 ### Restaurant Page
-A mini website for the restaurant's aggregator including index page, restaurants and meals pages.
-- Utilized mixins and variables in SCSS to improve code maintainability and reusability.
-- Created different entry points with webpack to improve the organization and performance of the codebase.
-- Implemented the use of GET parameters for more efficient retrieval of data.
-- Implemented basic content filtering options such as filtering by menu groups and menus specific to a restaurant.
+A mini website for the restaurant's aggregator was developed, utilizing mixins and variables in SCSS to improve maintainability and reusability. GET parameters were implemented for efficient data retrieval, and basic filtering options were added.
 
 #### Technologies:
-- Javascript
-- SCSS
-- Webpack
+Javascript, SCSS, Webpack
 
-[Link to the Github pages](https://ocnm.github.io/sb-restaurant/)
-
-[link to the code](https://github.com/ocnm/sb-restaurant/)
+[Github pages](https://ocnm.github.io/sb-restaurant/) | [Source code](https://github.com/ocnm/sb-restaurant/)
 
 ### Library
-In this project, I created a SPA to store a list of books to read or read already.
-- Implemented the ability to store, add, delete, and edit books in the application.
-- Added functionality to set books to read and unread statuses and marked them with different colors for better visibility.
-- Included the possibility to add dates of publishing, and start and finish reading dates for each book.
-- Implemented field checks to ensure dates are entered in chronological order.
-- Designed an interface that is available in two options: as cards and a table for better flexibility.
-- Included simple statistics to allow for better tracking of reading progress.
+A SPA for storing a list of books was created with a CRUD feature, form validation, and the ability to set reading statuses and mark books with different colors. The library is stored in localStorage, and the interface is available in two options: as cards and a table.
 
 #### Technologies:
-- Javascript
-- SCSS
-- Webpack
-- JSON (localStorage)
-Please copy and paste the above snippet in your README.md file. Also, you can adjust the description of the projects and tech
+Javascript, SCSS, Webpack
 
-[Link to the Github pages](https://ocnm.github.io/sb-library/)
-
-[link to the code](https://github.com/ocnm/sb-library/)
+[Github pages](https://ocnm.github.io/sb-library/) | [Source code](https://github.com/ocnm/sb-library/)
