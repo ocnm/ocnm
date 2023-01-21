@@ -1,12 +1,9 @@
 ## Skills
-- HTML
-- SCSS/SASS/CSS
+- HTML, CSS(SCSS/SASS)
 - JavaScript, Typescript
 - React, Node
-
-- Webpack
-- Git
-- Npm, yarn
+- Webpack, Babel
+- Git, Npm, yarn
 
 ## Projects
 
