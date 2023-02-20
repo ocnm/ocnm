@@ -1,9 +1,11 @@
 ## Skills
 - HTML, CSS(SCSS/SASS)
 - JavaScript, Typescript
+- Material UI, Bootstrap
 - React, Node
-- Webpack, Babel
-- Git, Npm, yarn
+- Webpack
+- Docker
+- Git
 
 ## Projects
 
