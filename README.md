@@ -2,6 +2,7 @@
 - HTML, CSS(SCSS/SASS)
 - JavaScript, Typescript
 - Material UI, Bootstrap
+- Firebase, MySQL
 - React, Node
 - Webpack
 - Docker
