@@ -15,6 +15,7 @@ SPA for creating, and storing resumes. Responsive design, CRUD operations, save 
 
 #### Technologies:
 Javascript, React, MaterialUI, Firebase.
+
 [Github pages](https://ocnm.github.io/sb-cvapp/) | [Source code](https://github.com/ocnm/sb-cvapp)
 
 ### Weather App
