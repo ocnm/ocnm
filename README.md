@@ -1,9 +1,10 @@
 ## Skills
-- HTML, CSS(SCSS/SASS)
-- JavaScript, Typescript
+- JavaScript, Typescript, Lua, PHP
 - Material UI, Bootstrap
+- HTML, CSS(SCSS/SASS)
 - Firebase, MySQL
-- React, Node
+- Reactjs, Node
+- Wordpress
 - Webpack
 - Docker
 - Git
@@ -20,7 +21,7 @@ Javascript, React, MaterialUI, Firebase.
 
 [Github pages](https://ocnm.github.io/sb-cvapp/) | [Source code](https://github.com/ocnm/sb-cvapp)
 
-### Weather App
+### Project Weather App
 Responsive application to check weather worldwide.
 
 Open Weather API, geolocation check, error and time zones handling, responsive design.
@@ -30,7 +31,7 @@ Javascript, Bootstrap, SCSS, Webpack, async / await.
 
 [Github pages](https://ocnm.github.io/sb-weather/) | [Source code](https://github.com/ocnm/sb-weather/)
 
-### Restaurant Page
+### Project Restaurant Page
 A mini website for the restaurant's aggregator.
 
 Mixins and variables in SCSS, GET parameters, filters, sliders, pagination.
@@ -40,7 +41,7 @@ Javascript, SCSS, Webpack
 
 [Github pages](https://ocnm.github.io/sb-restaurant/) | [Source code](https://github.com/ocnm/sb-restaurant/)
 
-### Library
+### Project Library
 SPA for storing a list of books.
 
 CRUD, form validation, reading statuses, localStorage, table, and card views of the library.
