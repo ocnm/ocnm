@@ -10,6 +10,13 @@
 
 ## Projects
 
+### Project Resume App - Work in progress.
+SPA for creating, and storing resumes. Responsive design, CRUD operations, save to pdf.
+
+#### Technologies:
+Javascript, React, MaterialUI, Firebase.
+[Github pages](https://ocnm.github.io/sb-cvapp/) | [Source code](https://github.com/ocnm/sb-cvapp)
+
 ### Weather App
 An application using the Open Weather API with automatic geolocation check and error-handling mechanisms were developed. The design includes sliders for hourly and daily forecasts and is optimized for different screens with communication to the server.
 
