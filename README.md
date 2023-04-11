@@ -8,10 +8,12 @@
 - Docker
 - Git
 
-## Projects
+## My Portfolio.
 
 ### Project Resume App - Work in progress.
-SPA for creating, and storing resumes. Responsive design, CRUD operations, save to pdf.
+SPA for creating, and storing resumes. 
+
+Responsive design, CRUD operations, form validation, save to pdf.
 
 #### Technologies:
 Javascript, React, MaterialUI, Firebase.
@@ -19,15 +21,19 @@ Javascript, React, MaterialUI, Firebase.
 [Github pages](https://ocnm.github.io/sb-cvapp/) | [Source code](https://github.com/ocnm/sb-cvapp)
 
 ### Weather App
-An application using the Open Weather API with automatic geolocation check and error-handling mechanisms were developed. The design includes sliders for hourly and daily forecasts and is optimized for different screens with communication to the server.
+Responsive application to check weather worldwide.
+
+Open Weather API, geolocation check, error and time zones handling, responsive design.
 
 #### Technologies:
-Javascript, SCSS, Webpack.
+Javascript, Bootstrap, SCSS, Webpack, async / await.
 
 [Github pages](https://ocnm.github.io/sb-weather/) | [Source code](https://github.com/ocnm/sb-weather/)
 
 ### Restaurant Page
-A mini website for the restaurant's aggregator was developed, utilizing mixins and variables in SCSS to improve maintainability and reusability. GET parameters were implemented for efficient data retrieval, and basic filtering options were added.
+A mini website for the restaurant's aggregator.
+
+Mixins and variables in SCSS, GET parameters, filters, sliders, pagination.
 
 #### Technologies:
 Javascript, SCSS, Webpack
@@ -35,7 +41,9 @@ Javascript, SCSS, Webpack
 [Github pages](https://ocnm.github.io/sb-restaurant/) | [Source code](https://github.com/ocnm/sb-restaurant/)
 
 ### Library
-A SPA for storing a list of books was created with a CRUD feature, form validation, and the ability to set reading statuses and mark books with different colors. The library is stored in localStorage, and the interface is available in two options: as cards and a table.
+SPA for storing a list of books.
+
+CRUD, form validation, reading statuses, localStorage, table, and card views of the library.
 
 #### Technologies:
 Javascript, SCSS, Webpack
