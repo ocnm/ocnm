@@ -11,7 +11,7 @@
 
 ## My Portfolio.
 
-### Project Resume App - Work in progress.
+### Project Resume App.
 SPA for creating, and storing resumes. 
 
 Responsive design, CRUD operations, form validation, save to pdf.
