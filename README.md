@@ -67,4 +67,5 @@
 
 </p>
 
- <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocnm&layout=compact" height="160"/>
+<img alt="Profile views" src="https://gpvc.arturio.dev/ocnm" height="30"/>
+
