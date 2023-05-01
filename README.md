@@ -60,8 +60,7 @@
 > SPA for storing a list of books.
 
 
-<p align="center">
-<br/>
+<p align="center" style="display: flex; flex-flow: row wrap; justify-content: space-between; gap: 20px;">
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ocnm&show_icons=true&theme=radical" height="160"/>
 <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocnm&layout=compact" height="160"/>
 </p>
