@@ -1,9 +1,9 @@
 ## Skills
 - JavaScript, Typescript, Lua, PHP
-- Material UI, Bootstrap
+- Material UI, Bootstrap, Tailwind CSS
+- Reactjs, Node.js, Next.js
+- Firebase, MySQL, MongoDB
 - HTML, CSS(SCSS/SASS)
-- Firebase, MySQL
-- Reactjs, Node
 - Wordpress
 - Webpack
 - Docker
@@ -26,3 +26,5 @@ A mini website for the restaurant's aggregator.
 ### - Project Library
 SPA for storing a list of books.
 [Details](https://github.com/ocnm/sb-library/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ocnm&show_icons=true&theme=radical)
