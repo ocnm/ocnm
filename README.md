@@ -62,5 +62,9 @@
 
 <p align="center">
 <br/>
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ocnm&show_icons=true&theme=radical"/>
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ocnm&show_icons=true&theme=radical" height="160"/>
+<img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocnm&layout=compact" height="160"/>
+
 </p>
+
+ <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocnm&layout=compact" height="160"/>
