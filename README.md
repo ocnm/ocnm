@@ -40,7 +40,7 @@
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" />
 </p>
 
-## My Portfolio.
+## My Portfolio
 
 ### [ Project Resume App. ](https://github.com/ocnm/sb-cvapp) <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20" /> <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" height="20"/> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20" />
 
