@@ -41,10 +41,3 @@
 ### [Library.](https://github.com/ocnm/sb-library/) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/> <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="20" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" height="20" />
 
 > SPA for storing a list of books.
-
-
-<p align="center">
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ocnm&show_icons=true&theme=radical" height="160"/>
- <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocnm&layout=compact&theme=radical" height="160"/>
-</p>
-
