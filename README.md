@@ -22,22 +22,3 @@
   <img alt="tmux" src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white&color=1BB91F" height="20" />
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&color=57A143" height="20" />
 </p>
-
-## Deployed example projects:
-
-### [Resume Builder App. ](https://github.com/ocnm/sb-cvapp) <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20" /> <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" height="20"/> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20" />
-
-> SPA for creating, and storing resumes. Synchronizing data with the cloud.
-
-
-### [Weather App.](https://github.com/ocnm/sb-weather/) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="20"/> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" height="20" />
-
-> Responsive application to check weather worldwide.
-
-### [Restaurant Page.](https://github.com/ocnm/sb-restaurant/) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/> <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="20" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" height="20" />
-
-> A mini website for the restaurant's aggregator.
-
-### [Library.](https://github.com/ocnm/sb-library/) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/> <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" height="20" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" height="20" />
-
-> SPA for storing a list of books.
